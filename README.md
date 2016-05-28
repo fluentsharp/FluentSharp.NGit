@@ -1,2 +1,2 @@
 # FluentSharp.NGit
-Repo for FluentSharp.MsBuild
+Repo for FluentSharp.NGit
